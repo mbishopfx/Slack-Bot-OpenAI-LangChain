@@ -1,6 +1,3 @@
-Here’s a suggested GitHub description for your code:
-
----
 
 ### Slack AI Assistant with OpenAI and LangChain Integration
 
