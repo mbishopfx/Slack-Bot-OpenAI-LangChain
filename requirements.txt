@@ -1,0 +1,11 @@
+Flask
+slack-bolt
+slack-sdk
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-community
+aiohttp
+hmac
+hashlib
